@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monographiacassi03bohe_0555.png"; bbox 0 0 1804 3072; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1560 101 1729 130">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1560 101 1729 130">
+     <span class='ocr_line' id='line_1_1' title="bbox 1560 101 1729 130; baseline 0.012 -2"><span class='ocrx_word' id='word_1_1' title='bbox 1560 101 1645 129; x_wconf 62' lang='lat' dir='ltr'><em>Pal).</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1667 101 1729 130; x_wconf 61' lang='grc' dir='ltr'><em>ΖΠ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1727 158 1733 2937">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1727 158 1733 2937">
+     <span class='ocr_line' id='line_1_2' title="bbox 1727 158 1733 2937"><span class='ocrx_word' id='word_1_3' title='bbox 1727 158 1733 2937; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 937 166 939 1631">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 937 166 939 1631">
+     <span class='ocr_line' id='line_1_3' title="bbox 937 166 939 1631"><span class='ocrx_word' id='word_1_4' title='bbox 937 166 939 1631; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 171 147 1724 152">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 171 147 1724 152">
+     <span class='ocr_line' id='line_1_4' title="bbox 171 147 1724 152"><span class='ocrx_word' id='word_1_5' title='bbox 171 147 1724 152; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 934 1853 937 2936">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 934 1853 937 2936">
+     <span class='ocr_line' id='line_1_5' title="bbox 934 1853 937 2936"><span class='ocrx_word' id='word_1_6' title='bbox 934 1853 937 2936; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 278 359 1572 2786">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 278 359 1572 2786">
+     <span class='ocr_line' id='line_1_6' title="bbox 278 359 1572 2786"><span class='ocrx_word' id='word_1_7' title='bbox 278 359 1572 2786; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 172 2011 1727 2014">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 172 2011 1727 2014">
+     <span class='ocr_line' id='line_1_7' title="bbox 172 2011 1727 2014"><span class='ocrx_word' id='word_1_8' title='bbox 172 2011 1727 2014; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 148 2937 1723 2939">
+    <p class='ocr_par' dir='ltr' id='par_1_8' title="bbox 148 2937 1723 2939">
+     <span class='ocr_line' id='line_1_8' title="bbox 148 2937 1723 2939"><span class='ocrx_word' id='word_1_9' title='bbox 148 2937 1723 2939; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_9' title="bbox 145 1077 1697 1082">
+    <p class='ocr_par' dir='ltr' id='par_1_9' title="bbox 145 1077 1697 1082">
+     <span class='ocr_line' id='line_1_9' title="bbox 145 1077 1697 1082"><span class='ocrx_word' id='word_1_10' title='bbox 145 1077 1697 1082; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
